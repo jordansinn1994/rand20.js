@@ -26,14 +26,9 @@ $ cd you_project
 $ npm install rand20
 ```
 
-### Todos
-
- - Link bots using rand20.js
- - Add ability to private message Game Masters
-
 ### Reccomended Bot Software
  * [node-irc] - NodeJS IRC client library
-
+ * [rollbot] - D20 dice roller irc bot using Random.org
 
 License
 ----
@@ -43,3 +38,4 @@ Apache License Version 2.0
    [node.js]: <http://nodejs.org>
    [Random.org]: <https://www.random.org/>
    [node-irc]: <https://github.com/martynsmith/node-irc>
+   [rollbot]: <https://github.com/jordansinn1994/rollbot.js>
