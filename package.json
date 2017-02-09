@@ -1,0 +1,29 @@
+{
+  "name": "rand20",
+  "description": "D20 dice set based roller using Random.org api",
+  "tags": [
+    "random",
+    "dice",
+    "roll",
+    "rpg"
+  ],
+  "version": "0.1.0",
+  "author": "Jordan Sinn <admin@jordansinn.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jordansinn1994/rand20.js"
+  },
+  "bugs": {
+    "mail": "admin@jordansinn.com",
+    "url": "https://github.com/jordansinn1994/rand20.js/issues"
+  },
+  "main": "rand20.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "request":">=2.79.0"
+  },
+
+}
